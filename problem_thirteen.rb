@@ -1,0 +1,1 @@
+ARGV.each { |name| puts "Hello, #{name}!" }
